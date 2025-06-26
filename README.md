@@ -1,5 +1,5 @@
 # job-info
-## 开放职位
+## open position
 
 ### 1. Position：1 Credit Risk Control Manager(Saudi Arabia)
 - **location**：Riyadh
@@ -72,5 +72,5 @@ Effective communication and interpersonal abilities
 Sound judgment and decision-making skills
 High learning agility and adaptability
 Ability to manage pressure and handle financial risks
-- **投递邮箱**：zengqinghui@liugong.com
+- **Delivery mailbox**：zengqinghui@liugong.com
 - **Email subject format**: Application for [Position Name]-[Your Name]
